@@ -1,0 +1,81 @@
+.container{
+  width: 80%;
+}
+.p-1{
+  padding: 1rem;
+}
+.p-2{
+  padding: 1.5rem;
+}
+.p-3{
+  padding: 2rem;
+}
+.p-4{
+  padding: 2.5rem;
+}
+.p-5{
+  padding: 3rem;
+}
+.pt-1{
+  padding-top: 1rem;
+}
+.pt-2{
+  padding-top: 1.5rem;
+}
+.pt-3{
+  padding-top: 2rem;
+}
+.pt-4{
+  padding-top: 2.5rem;
+}
+.pt-5{
+  padding-top: 3rem;
+}
+.pb-1{
+  padding-top: 1rem;
+}
+.pb-2{
+  padding-top: 1.5rem;
+}
+.pb-3{
+  padding-top: 2rem;
+}
+.pb-4{
+  padding-top: 2.5rem;
+}
+.pb-5{
+  padding-top: 3rem;
+}
+.mt-1{
+  margin-top: 1rem;
+}
+.mt-2{
+  margin-top: 1.5rem;
+}
+.mt-3{
+  margin-top: 2rem;
+}
+.mt-4{
+  margin-top: 2.5rem;
+}
+.mt-5{
+  margin-top: 3rem;
+}
+.w-100{
+  width: 100%;
+}
+.accordion-btn{
+  text-align: left;
+  background-color: silver;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  transition: 0.5s;
+}
+.accordion-body{
+  display: none;
+}
+
+.active, .accordion-btn:hover{
+  background-color: gray;
+}
